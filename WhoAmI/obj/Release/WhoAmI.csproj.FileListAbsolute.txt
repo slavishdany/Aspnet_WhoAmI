@@ -1,0 +1,6 @@
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\bin\WhoAmI.dll.config
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\bin\WhoAmI.dll
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\bin\WhoAmI.pdb
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\obj\Release\WhoAmI.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\obj\Release\WhoAmI.dll
+C:\Users\Danilo\source\repos\WhoAmI\WhoAmI\obj\Release\WhoAmI.pdb

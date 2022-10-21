@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Danilo\source\repos\WhoAmI\pubblished</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WhoAmI.dll">
+      <publishTime>10/21/2022 11:28:17</publishTime>
+    </File>
+    <File Include="bin/WhoAmI.pdb">
+      <publishTime>10/21/2022 11:28:17</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>10/21/2022 11:19:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/21/2022 11:28:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
